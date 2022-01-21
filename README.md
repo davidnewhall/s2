@@ -1,4 +1,4 @@
-# xz
+# S2
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/s2/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/s2?status.png)](http://godoc.org/github.com/pedroalbanese/s2)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/s2)](https://goreportcard.com/report/github.com/pedroalbanese/s2)
